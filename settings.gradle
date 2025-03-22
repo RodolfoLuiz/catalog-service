@@ -1,0 +1,5 @@
+rootProject.name = 'catalog-service'
+include 'domain'
+include 'application'
+include 'infrastructure'
+
